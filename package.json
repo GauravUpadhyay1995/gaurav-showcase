@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "deploy": "gh-pages -d dist",
-    "homepage": "https://GauravUpadhyay1995.github.io/gaurav-porfolio/"
+    "homepage": "https://GauravUpadhyay1995.github.io/gaurav-showcase/"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
