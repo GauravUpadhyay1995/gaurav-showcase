@@ -108,7 +108,7 @@ const HeroSection = () => {
             initial="hidden"
             animate="visible"
           >
-            {"Gaurav Upadhyay1".split("").map((char, index) => (
+            {"Gaurav Upadhyay".split("").map((char, index) => (
               <motion.span
                 key={index}
                 className="inline-block bg-gradient-to-r from-blue-600 via-purple-600 to-cyan-500 bg-clip-text text-transparent"
