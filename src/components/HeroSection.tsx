@@ -197,11 +197,11 @@ const HeroSection = () => {
             
             <div className="flex space-x-4">
               {[
-                { href: "https://github.com/RupamSingh333", icon: Github },
-                { href: "https://www.linkedin.com/in/rupam-kumar-1061321b2", icon: Linkedin },
-                { href: "https://www.facebook.com/Rupamsingh.0007", icon: Facebook },
-                { href: "https://www.instagram.com/rupamsingh_007", icon: Instagram },
-                { href: "https://youtube.com/@codelabs_india?si=GtP7PycEuJZFVar0", icon: Youtube }
+               { href: "https://github.com/GauravUpadhyay1995", icon: Github },
+              { href: "https://www.linkedin.com/in/gaurav-upadhyay312/", icon: Linkedin },
+              { href: "https://www.facebook.com/gauravupadhyaycool8", icon: Facebook },
+              { href: "https://www.instagram.com/g_a_u_r_a_v_u_p_a_d_h_y_a_y", icon: Instagram },
+              { href: "https://youtube.com/@codelabs_india?si=GtP7PycEuJZFVar0", icon: Youtube }
               ].map((social, index) => (
                 <motion.a
                   key={index}
